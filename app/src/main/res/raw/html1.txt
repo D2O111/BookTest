@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.91shushu.com/phone/index">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>很抱歉，此页面暂时找不到！</title>
+
+<style type="text/css">
+body {margin: 0px; padding:0px; font-family:\"微软雅黑\", Arial, "Trebuchet MS", Verdana, Georgia,Baskerville,Palatino,Times; font-size:40px;}
+div{margin-left:auto; margin-right:auto;}
+a {text-decoration: none; color: #1064A0;}
+a:hover {color: #0078D2;}
+img { border:none; }
+h1,h2,h3,h4 { 
+/*	display:block;*/
+	margin:0;
+	font-weight:normal; 
+	font-family:\"微软雅黑\", Arial, "Trebuchet MS", Helvetica, Verdana ;
+}
+h1{font-size:66px; color:#0188DE; padding:20px 0px 10px 0px;}
+h2{color:#0188DE; font-size:50px; padding:10px 0px 40px 0px;}
+
+#page{width:910px; padding:20px 20px 40px 20px; margin-top:500px;}
+.button{width:270px; height:42px; margin-left:0px;margin-top:50px; background:#009CFF; border-bottom:4px solid #0188DE; text-align:center;}
+.button a{width:270px; height:42px; display:block; font-size:30px; color:#fff; }
+.button a:hover{ background:#5BBFFF;}
+</style>
+
+</head>
+<body>
+
+<div id="page" style="border-style:dashed;border-color:#e4e4e4;line-height:30px;background:url(sorry.png) no-repeat right;">
+	<h1>~Wi-Fi和移动数据已断开！!</h1>
+	<h2>There is no network!! </h2>
+	<font color="#666666">请检查网络连接！！</font><br /><br />
+	<div class="button">
+		<a href="http://www.91shushu.com/phone/index" title=\"重新加载\" target="_blank">重新加载</a>
+	</div>
+</div>
+</body>
+</html>
